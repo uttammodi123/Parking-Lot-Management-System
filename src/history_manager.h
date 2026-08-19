@@ -3,7 +3,7 @@
 
 #include "vehicle.h"
 
-void save(Vehicle& v);
+void saveToCSV(Vehicle& v);
 void searchVehicle(string& vehicleNumber);
 void showHistory();
 
